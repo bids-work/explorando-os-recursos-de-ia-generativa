@@ -20,8 +20,9 @@ Copilot e OCR2 Edit
 Busca por imagens através de prompts com IA Generativa do Copilot e busca por imagens.
 
 A busca ocorreu em 4 diferentes cenários:
+
  A) texto de 300 caracteres, gerados pelo Copilot, exportados para PDF;
-![prompt 300 caracteres](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/prompt%20copilot%20300%20caracteres.txt)
+![prompt 300 caracteres](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/prompt%20copilot%20300%20caracteres.txt).
 
  
  B) imagem de cartaz, exportado para JPG;
