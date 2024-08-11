@@ -20,7 +20,7 @@ Copilot e busca de imagens
 Busca por imagens através de prompts com IA Generativa do Copilot e busca por imagens.
 
 
-A busca ocorreu em 5 diferentes cenários:
+A busca ocorreu em 6 diferentes cenários:
 
 
  **A) texto de 300 caracteres, gerados pelo Copilot, exportado para PDF**
@@ -91,6 +91,21 @@ Com ressalva de que faltou detalhe do número de telefone informado no canto do 
 ![leitura da planilha](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/output/planilha%20vendas%20planilha%20x%20texto.png)
 
 
+**F) imagem gerada pelo OpenArt / DALL-E, exportada para PNG**
+
+
+![imagem Dali em Foz 6](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/salvador%20dali%20em%20foz%2006.jpg)
+
+
+Solicitado descrição da imagem:
+
+**O resultado foi bem sucedido!**
+
+
+![descrição da imagem](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/output/prompt_2%20dali%20em%20foz%206.png)
+
+A única ressalva, conforme destacado no texto é a informação de "um chapéu em cima da mesa", ao invés de outros pequenos objetos sobre a mesa.
+
 
 ## ⚡👁 Insights
 
@@ -105,6 +120,8 @@ No caso E, da planilha simulada, acrescentou-se solicitação adicional, fazendo
 
 ![leitura da imagem da planilha e totalizacao](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/output/imagem%20planilha%20vendas%20e%20totalizacao.png)
 
+
+No caso F, da descrição de imagem, apesar da ressalva apontada acima, destacamos o reconhecimento de texto numa pequena faixa sobre a tela (WELCOME TO BRAZIL); e a informação do estilo do artista apresentado (Salvador Dali), conforme destaques no resultado.
  
  
 ## 🚀 Resultados
