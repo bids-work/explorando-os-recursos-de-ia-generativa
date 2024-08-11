@@ -35,10 +35,7 @@ A busca ocorreu em 4 diferentes cenários:
  
  C) imagem com escrita vertical nos 2 sentidos, exportado para PNG;
 
-
-
-
-
+[PNG lombada](
 
  
  D) planilha simulada de vendas, gerado pelo Copilot, exportados para xlsx.
