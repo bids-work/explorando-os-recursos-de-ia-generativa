@@ -14,7 +14,7 @@ Utilização de ferramentas de reconhecimento de texto em imagens
 Criação das pastas inputs (com as imagens utilizadas) e outputs (com os resultados de reconhecimento de texto em imagens)
 
 ## 🤖 Tecnologias Utilizadas
-Copilot
+Copilot e busca de imagens
 
 ## 🧐 Processo de Criação
 Busca por imagens através de prompts com IA Generativa do Copilot e busca por imagens.
