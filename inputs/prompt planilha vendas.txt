@@ -1,0 +1,3 @@
+Você
+Enviado por você:
+por favor, pode gerar uma planilha simulada de vendas com 5 linhas, e informações fictícias com as colunas: data da venda, ID produto, nome do produto, quantidade do produto, preço do produto, total do produto
