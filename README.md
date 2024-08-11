@@ -32,7 +32,7 @@ A busca ocorreu em 4 diferentes cenários:
  
  B) imagem de cartaz, exportado para JPG;
  
-![cartaz JPG]
+![cartaz JPG](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/inca-outubrorosa_cartaz.jpg)
 
 
  
