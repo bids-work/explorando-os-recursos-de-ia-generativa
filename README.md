@@ -23,7 +23,7 @@ Busca por imagens através de prompts com IA Generativa do Copilot e busca por i
 A busca ocorreu em 5 diferentes cenários:
 
 
- **A) texto de 300 caracteres, gerados pelo Copilot, exportados para PDF;**
+ **A) texto de 300 caracteres, gerados pelo Copilot, exportado para PDF**
  
 ![prompt 300 caracteres](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/prompt%20300%20caracteres.png)
 
@@ -39,20 +39,20 @@ Resultado em PDF:
 
 
  
- **B) imagem de cartaz, exportado para JPG;**
+ **B) imagem de cartaz, exportada para JPG**
  
 ![cartaz JPG](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/inca-outubrorosa_cartaz.jpg)
 
 **O resultado foi satisfatório.**
 
 
-Com ressalva de que faltou detalhe do número de telefone informado no canto do cartaz que não foi identificado. Por isso o alerta de sempre revisarmos o resultado do reconhecimento de texto em imagens, não se limitando à prática de CTRL+C / CTRL+V.
+Com ressalva de que faltou detalhe do número de telefone informado no canto do cartaz (DISQUE SAÚDE 136) que não foi identificado. Por isso o alerta de sempre revisarmos o resultado do reconhecimento de texto em imagens, não se limitando à prática de CTRL+C / CTRL+V.
 
 ![leitura do cartaz](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/output/inca%20convertido%20em%20texto.png)
 
 
 
-  **C) imagem com escrita vertical nos 2 sentidos, exportado para PNG;**
+  **C) imagem com escrita vertical nos 2 sentidos, exportada para PNG**
 
 ![PNG lombada](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/lombada-americana-europeia50.png)
 
@@ -63,7 +63,7 @@ Com ressalva de que faltou detalhe do número de telefone informado no canto do 
 
 
 
-  **D) imagem de placa de veículo, exportado para PNG;**
+  **D) imagem de placa de veículo, exportada para PNG**
 
 ![placa de veículo PNG](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/placa%20veiculo.png)
 
@@ -74,7 +74,7 @@ Com ressalva de que faltou detalhe do número de telefone informado no canto do 
 
 
  
-  **E) planilha simulada de vendas, gerado pelo Copilot, exportados para xlsx.**
+  **E) planilha simulada de vendas, gerado pelo Copilot, exportada para XLSX**
 
 ![prompt de planilha de vendas](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/prompt%20planilha%20vendas.png)
 
