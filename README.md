@@ -79,7 +79,10 @@ Com ressalva de que faltou detalhe do número de telefone informado no canto do 
 ![prompt de planilha de vendas](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/prompt%20planilha%20vendas.png)
 
 
-![planilha em XLSX](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/copilot%20planilha%20vendas.png)
+![planilha gerada](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/copilot%20planilha%20vendas.png)
+
+
+![planilha em XLSX](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/planilha%20vendas%20no%20Excel.png)
 
 
 
