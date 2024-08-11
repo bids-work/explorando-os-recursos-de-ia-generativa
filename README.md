@@ -1,4 +1,4 @@
-[lombada-americana-europeia.txt](https://github.com/user-attachments/files/16571310/lombada-americana-europeia.txt)# Explorando os Recursos de IA Generativa com Copilot e OpenAI
+## Explorando os Recursos de IA Generativa com Copilot e OpenAI
 Desafio de projeto
 
 
@@ -94,10 +94,10 @@ Com ressalva de que faltou detalhe do número de telefone informado no canto do 
 
 ## ⚡👁 Insights
 
-No caso C, da imagem com escrita vertical nos 2 sentidos, a escolha da imagem foi premeditada, para verificar se o Copilot faria a leitura nos 2 sentidos corretamente. O mesmo não ocorreu com outras ferramentas de OCR, em que leu corretamente somente 1 dos sentidos.
+No caso C, resultado do reconhecimento do texto foi bem sucedido, da imagem com escrita vertical nos 2 sentidos, sendo escolha premeditada, para verificar se o Copilot faria a leitura nos 2 sentidos corretamente. O mesmo não ocorreu com outras ferramentas de OCR, em que leu corretamente somente 1 dos sentidos e ficou "perdido" no outro sentido, com caracteres desconexos.
 
 
-No caso E, da planilha simulada, acrescentou-se uma solicitação de informação adicional, com a totalização de vendas que não constava na imagem enviada para reconhecimento de texto. E também retornou a informação corretamente.
+No caso E, da planilha simulada, acrescentou-se solicitação adicional, fazendo o reconhecimento de texto não pela planilha, mas por imagem da planilha em PGN e solicitando a totalização de vendas, que não constava na imagem enviada. E também retornou a informação corretamente.
 
 
 ![prompt da imagem da planilha e totalizacao](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/prompt%20imagem%20planilha%20vendas%20e%20totalizacao.png)
