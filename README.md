@@ -24,8 +24,13 @@ A busca ocorreu em 4 diferentes cenários:
  A) texto de 300 caracteres, gerados pelo Copilot, exportados para PDF;
 ![prompt 300 caracteres](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/prompt%20copilot%20300%20caracteres.txt).
 
+![prompt 300 caracteres](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/prompt%20copilot%20300%20caracteres.txt)
+
+![PDF 300 caracteres](https://github.com/bids-work/explorando-os-recursos-de-ia-generativa/blob/main/inputs/texto%20300%20caracteres.pdf)
  
  B) imagem de cartaz, exportado para JPG;
+
+
  
  C) imagem com escrita vertical nos 2 sentidos, exportado para PNG;
  
